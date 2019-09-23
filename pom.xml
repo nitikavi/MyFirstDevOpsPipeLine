@@ -42,7 +42,7 @@
 				<version>2.19.1</version>
 				<configuration>
 					<suiteXMLFiles>
-						<suiteXMLFile>${surefire.suiteXmlFiles}</suiteXMLFile>
+						<suiteXMLFile>${surefire1.suiteXmlFiles}</suiteXMLFile>
 					</suiteXMLFiles>
 				</configuration>
 			</plugin>
