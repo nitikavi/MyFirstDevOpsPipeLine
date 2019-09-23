@@ -7,7 +7,7 @@
 <title>DevOps Registration Form</title>
 </head>
 <body>
-<h1>EduApp Register Form</h1>
+<h1>DevOps Register Form</h1>
 <form action="" method="post">
 			<table style="with: 50%">
 				<tr>
